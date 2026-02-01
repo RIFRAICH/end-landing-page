@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://rifraich.com/*"
+  to = "https://www.rifraich.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.rifraich.com/*"
+  to = "https://www.rifraich.fr/:splat"
+  status = 301
+  force = true
